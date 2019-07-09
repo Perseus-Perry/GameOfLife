@@ -15,7 +15,7 @@ The file "grid.txt" stores the starting pattern.
 2)  1 means the cell is alive.
 
 
-Please ensure thet the pattern in grid.txt is square.
+Please ensure that the pattern in grid.txt is a square.
 This means that the number of columns should be equal to number of rows. 
 Thus
 
