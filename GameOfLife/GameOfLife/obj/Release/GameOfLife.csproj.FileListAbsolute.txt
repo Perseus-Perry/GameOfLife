@@ -1,0 +1,7 @@
+C:\dev\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\dev\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\dev\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\dev\GameOfLife\GameOfLife\obj\Release\GameOfLife.csprojAssemblyReference.cache
+C:\dev\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.CoreCompileInputs.cache
+C:\dev\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
+C:\dev\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb
